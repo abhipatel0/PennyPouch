@@ -21,5 +21,10 @@ registered the database context in the program.cs
 
 17:32
 I'm forgetting something... I guesss...
-OOhh.... I did not created the github reposetry... lets do that first..
+OOhh.... I did not created the github repository... lets do that first..
 
+17:35
+Created the repository
+
+17:42
+Added database connection string in appsettings.json
