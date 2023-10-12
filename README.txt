@@ -28,3 +28,12 @@ Created the repository
 
 17:42
 Added database connection string in appsettings.json
+
+
+21:29
+Added Scaffold. While adding scaffold there was an error which shows that the entity type requires a primary key to be defined. 
+so I watced tutorials on youtube and solved it by adding [Key] in the Pouch.cs
+
+24:29
+exactly 1 hour it took....;)
+added migration and SeedData, but i was not able to navigate to /Pouches when i click on the logo, Then i updated it in _Layout.cshtml
