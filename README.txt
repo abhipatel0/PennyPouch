@@ -34,6 +34,17 @@ Added database connection string in appsettings.json
 Added Scaffold. While adding scaffold there was an error which shows that the entity type requires a primary key to be defined. 
 so I watced tutorials on youtube and solved it by adding [Key] in the Pouch.cs
 
-24:29
+
+2023-10-12
+
+00:29
 exactly 1 hour it took....;)
 added migration and SeedData, but i was not able to navigate to /Pouches when i click on the logo, Then i updated it in _Layout.cshtml
+
+
+00:39
+Now it's time to add other products...
+
+
+1:09
+Finally Added 10 products in SeedData.cs
