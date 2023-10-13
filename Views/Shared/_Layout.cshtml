@@ -43,7 +43,10 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - PennyPouch - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <p><!--Automated the copyright year-->
+                Copyright &copy;
+                <script>document.write(new Date().getFullYear())</script> PennyPouch - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </p>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
