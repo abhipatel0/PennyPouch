@@ -57,3 +57,6 @@ So I deleted the data and updated the Database... Then it displayed all the data
 21:44
 Added About us page....
 Now its time to add style and make our website professional ;)
+
+23:57
+Finally all the designing is completed...

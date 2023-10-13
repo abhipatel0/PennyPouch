@@ -3,9 +3,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PennyPouch.Models
 {
+    //attributes and characteristics of the product
     public class Pouch
     {
-        [Key]
+        [Key] //To make the ItemNumber primary key
         public int ItemNumber { get; set; }
         public string Name { get; set; }
         public string Color { get; set; }
