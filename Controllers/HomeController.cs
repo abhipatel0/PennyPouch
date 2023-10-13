@@ -23,6 +23,11 @@ namespace PennyPouch.Controllers
             return View();
         }
 
+        public IActionResult AboutUs()  //linked the about us page
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

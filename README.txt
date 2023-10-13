@@ -52,3 +52,8 @@ Finally Added 10 products in SeedData.cs
 1:16
 when i tested the application, it only shows the previous data..
 So I deleted the data and updated the Database... Then it displayed all the data....
+
+
+21:44
+Added About us page....
+Now its time to add style and make our website professional ;)
