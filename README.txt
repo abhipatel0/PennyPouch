@@ -65,3 +65,10 @@ Finally all the designing is completed...
 3:16 am
 I know its too late but I have to do it....
 Updated the copyright year which will automaticaly update.
+
+3:28
+Successfully Published my webapp on azure..
+now I can say that my assignment 1 is completed..
+I learned many things while doing this assignment, abd I really enjoyed the process... ;)
+
+And Here's the link of my webapp:- https://pennypouch20231013032331.azurewebsites.net
